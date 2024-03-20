@@ -1,5 +1,5 @@
 ## Hi
-My name is Moritz and im currently a student at University of Technology Graz.
+My name is Moritz. I studied Information and Computer Engineering at TU Graz, specializing in Machine Learning and Computer Vision.
 
 ![rlcmtz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlcmtzc&count_private=true&theme=slateorange&show_icons=true)
 
